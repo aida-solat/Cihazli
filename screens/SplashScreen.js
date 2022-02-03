@@ -4,7 +4,6 @@ import {
   View,
   Dimensions,
   StyleSheet,
-  Image,
   TouchableOpacity,
 } from "react-native";
 import MaterialIcons from "react-native-vector-icons/MaterialIcons";
